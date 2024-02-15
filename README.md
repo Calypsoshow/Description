@@ -30,22 +30,23 @@
 - [ ] <https://github.com/octo-org/octo-repo/issues/740>
 - [ ] Add delight to the experience when all tasks are complete :tada:
 
--->
+
+<!--
 > [!NOTE]
-> Useful information that users should know, even when skimming content.
+> Informations utiles que les utilisateurs devraient connaître, même en parcourant rapidement le contenu.
 
 > [!TIP]
-> Helpful advice for doing things better or more easily.
+> Conseils utiles pour faire les choses mieux ou plus facilement.
 
 > [!IMPORTANT]
-> Key information users need to know to achieve their goal.
+> Informations clés que les utilisateurs doivent connaître pour atteindre leur objectif.
 
 > [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
+> Informations urgentes qui nécessitent l'attention immédiate de l'utilisateur pour éviter des problèmes.
 
 > [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
-<--
+> Avertissements sur les risques ou les résultats négatifs de certaines actions.
+-->
 
 ## Projets notables
 - [Projet 1](lien_vers_le_projet_1) - People's Corporation .
