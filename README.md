@@ -46,14 +46,11 @@ You can click the Preview link to take a look at your changes.
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
 
-# Bienvenue sur mon profil GitHub ! 👋
-
-Je suis [votre nom], un développeur passionné par [vos intérêts] basé à [votre localisation].
-
 ## Réseaux sociaux
-- [LinkedIn](lien_vers_votre_profil_linkedin)
-- [Twitter](lien_vers_votre_profil_twitter)
-- [Site Web personnel](lien_vers_votre_site_web)
+- [instagram](https://www.instagram.com/antonin77_/)
+- [Tiktok](https://www.tiktok.com/@calypso_officiel)
+- [Discord](https://discord.gg/UvjayyYjQa)
+- [Site Web personnel](https://www.peoplesvibe.ouiweb.eu/)
 
 ## Projets notables
 - [Projet 1](lien_vers_le_projet_1) - People's Corporation .
