@@ -30,7 +30,7 @@
 - [ ] <https://github.com/octo-org/octo-repo/issues/740>
 - [ ] Add delight to the experience when all tasks are complete :tada:
 
-
+-->
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
 
@@ -45,7 +45,7 @@
 
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
-
+<--
 
 ## Projets notables
 - [Projet 1](lien_vers_le_projet_1) - People's Corporation .
