@@ -1,10 +1,10 @@
 **Salam!** 👋
 
-**`I code with swag`**
+**`Hello Je m'appeelle Calypso`**
 ## 🧰 Technologies et outils
 
 <div>
-  <img src="https://skillicons.dev/icons?i=discord,vscode,nodejs,html,css,js,ts,mongodb,express,react,github" alt="Technologies and Tools" />
+  <img src="https://skillicons.dev/icons?i=discord,vscode,nodejs,html,css,js,cpp,c#,github" alt="Technologies and Tools" />
 </div>
 
 ## 👨‍💻 Langages et langages de programmation
@@ -54,9 +54,6 @@ Je suis [votre nom], un développeur passionné par [vos intérêts] basé à [v
 - [LinkedIn](lien_vers_votre_profil_linkedin)
 - [Twitter](lien_vers_votre_profil_twitter)
 - [Site Web personnel](lien_vers_votre_site_web)
-
-## Statistiques GitHub
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Calypsoshow&show_icons=true)
 
 ## Projets notables
 - [Projet 1](lien_vers_le_projet_1) - People's Corporation .
