@@ -14,7 +14,7 @@
 * English, Urdu and Hindi
 
 ## 📞 Contact
-- Feel free to DM on [Discord](https://discord.com/users/922120042651451423)
+
 
 ## 🗽 GitHub Stats
 
@@ -51,6 +51,7 @@ You can click the Preview link to take a look at your changes.
 - [Tiktok](https://www.tiktok.com/@calypso_officiel)
 - [Discord](https://discord.gg/UvjayyYjQa)
 - [Site Web personnel](https://www.peoplesvibe.ouiweb.eu/)
+- N’hésitez pas à envoyer un DM sur [Discord](https://discord.com/users/411605364899971093)
 
 ## Projets notables
 - [Projet 1](lien_vers_le_projet_1) - People's Corporation .
