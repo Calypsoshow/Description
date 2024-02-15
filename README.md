@@ -17,6 +17,9 @@
 
 ![Calypso Dev](https://github-readme-stats.vercel.app/api?username=Calypsoshow&show_icons=true)
 
+## Contributions récentes
+![Contributions récentes](https://github-readme-streak-stats.herokuapp.com/?user=Calypsoshow)
+
 ## 📞 Réseaux sociaux
 - [instagram](https://www.instagram.com/antonin77_/)
 - [Tiktok](https://www.tiktok.com/@calypso_officiel)
@@ -28,11 +31,6 @@
 - [x] #739
 - [ ] <https://github.com/octo-org/octo-repo/issues/740>
 - [ ] Add delight to the experience when all tasks are complete :tada:
-
-<!---
-Uo1428/Uo1428 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 
 > [!NOTE]
@@ -56,6 +54,5 @@ You can click the Preview link to take a look at your changes.
 - [Projet 2](lien_vers_le_projet_2) - .
 - [Projet 3](lien_vers_le_projet_3) - Description du projet 3.
 
-## Contributions récentes
-![Contributions récentes](https://github-readme-streak-stats.herokuapp.com/?user=Calypsoshow)
+
 
