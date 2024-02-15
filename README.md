@@ -11,14 +11,18 @@
 * JavaScript, Node.JS
 * Python (Learning)
 * HTML & CSS
-* English, Urdu and Hindi
-
-## 📞 Contact
-
+* Francais, englais
 
 ## 🗽 GitHub Stats
 
 ![Calypso Dev](https://github-readme-stats.vercel.app/api?username=Calypsoshow&show_icons=true)
+
+## 📞 Réseaux sociaux
+- [instagram](https://www.instagram.com/antonin77_/)
+- [Tiktok](https://www.tiktok.com/@calypso_officiel)
+- [Discord](https://discord.gg/UvjayyYjQa)
+- [Site Web personnel](https://www.peoplesvibe.ouiweb.eu/)
+- N’hésitez pas à envoyer un DM sur [Discord](https://discord.com/users/411605364899971093)
 
 
 - [x] #739
@@ -46,12 +50,6 @@ You can click the Preview link to take a look at your changes.
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
 
-## Réseaux sociaux
-- [instagram](https://www.instagram.com/antonin77_/)
-- [Tiktok](https://www.tiktok.com/@calypso_officiel)
-- [Discord](https://discord.gg/UvjayyYjQa)
-- [Site Web personnel](https://www.peoplesvibe.ouiweb.eu/)
-- N’hésitez pas à envoyer un DM sur [Discord](https://discord.com/users/411605364899971093)
 
 ## Projets notables
 - [Projet 1](lien_vers_le_projet_1) - People's Corporation .
@@ -61,17 +59,3 @@ You can click the Preview link to take a look at your changes.
 ## Contributions récentes
 ![Contributions récentes](https://github-readme-streak-stats.herokuapp.com/?user=Calypsoshow)
 
-## Technologies maîtrisées
-- ![Langage 1](lien_vers_logo_langage_1) Langage 1
-- ![Langage 2](lien_vers_logo_langage_2) Langage 2
-- ![Framework 1](lien_vers_logo_framework_1) Framework 1
-
-## Articles de blog
-- [Titre de l'article 1](lien_vers_article_1) - Résumé de l'article 1.
-- [Titre de l'article 2](lien_vers_article_2) - Résumé de l'article 2.
-
-## Vidéos tutorielles
-- [Titre de la vidéo 1](lien_vers_video_1) - Description de la vidéo 1.
-- [Titre de la vidéo 2](lien_vers_video_2) - Description de la vidéo 2.
-
-N'hésitez pas à explorer mes repositories pour découvrir plus de projets passionnants ! 😊
