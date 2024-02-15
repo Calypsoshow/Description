@@ -18,12 +18,7 @@
 
 ## 🗽 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=uo1428&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Calypsoshow&show_icons=true)
-
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+![Calypso Dev](https://github-readme-stats.vercel.app/api?username=Calypsoshow&show_icons=true)
 
 
 - [x] #739
@@ -36,7 +31,20 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
 
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
 
 # Bienvenue sur mon profil GitHub ! 👋
 
