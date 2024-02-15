@@ -16,8 +16,6 @@
 ## 🗽 GitHub Stats
 
 ![Calypso Dev](https://github-readme-stats.vercel.app/api?username=Calypsoshow&show_icons=true)
-
-## Contributions récentes
 ![Contributions récentes](https://github-readme-streak-stats.herokuapp.com/?user=Calypsoshow)
 
 ## 📞 Réseaux sociaux
