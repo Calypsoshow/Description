@@ -56,15 +56,15 @@ Je suis [votre nom], un développeur passionné par [vos intérêts] basé à [v
 - [Site Web personnel](lien_vers_votre_site_web)
 
 ## Statistiques GitHub
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=votre_nom_utilisateur&show_icons=true)
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Calypsoshow&show_icons=true)
 
 ## Projets notables
-- [Projet 1](lien_vers_le_projet_1) - Description du projet 1.
-- [Projet 2](lien_vers_le_projet_2) - Description du projet 2.
+- [Projet 1](lien_vers_le_projet_1) - People's Corporation .
+- [Projet 2](lien_vers_le_projet_2) - .
 - [Projet 3](lien_vers_le_projet_3) - Description du projet 3.
 
 ## Contributions récentes
-![Contributions récentes](https://github-readme-streak-stats.herokuapp.com/?user=votre_nom_utilisateur)
+![Contributions récentes](https://github-readme-streak-stats.herokuapp.com/?user=Calypsoshow)
 
 ## Technologies maîtrisées
 - ![Langage 1](lien_vers_logo_langage_1) Langage 1
