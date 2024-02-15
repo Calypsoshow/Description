@@ -49,7 +49,7 @@
 -->
 
 ## Projets notables
-- [Projet 1](lien_vers_le_projet_1) - People's Corporation .
+- [People's Corporation](https://www.peoplesvibe.ouiweb.eu/pages/ImGui/LOGICIEL.exe - Mutli system  .
 - [Projet 2](lien_vers_le_projet_2) - .
 - [Projet 3](lien_vers_le_projet_3) - Description du projet 3.
 
